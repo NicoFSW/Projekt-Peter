@@ -8,7 +8,7 @@ namespace Projekt_neu
         {
 
 
-            Console.WriteLine("hallo");
+            Console.WriteLine("Wie gehts");
 
 
 
